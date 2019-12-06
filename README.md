@@ -1,1 +1,21 @@
-# C_Hoang_Data_Story_Telling
+# Olympic Winter in a nutshell
+
+![Picture here](USvsCA.jpg)
+ 
+## Synosis 
+
+In this webpage we will know which sport Canada did best and some interesting facts about it.
+
+## Author
+
+Cao Ly Hoang
+
+## Tools used
+
+Python
+CSS
+HTML
+
+## Licensed
+
+C_Hoang 2019
