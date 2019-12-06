@@ -1,6 +1,6 @@
 # Olympic Winter in a nutshell
 
-![Picture here](USvsCA.jpg)
+![Picture here](chart.jpg)
  
 ## Sypnosis 
 
