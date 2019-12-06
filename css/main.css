@@ -1,3 +1,36 @@
+@charset "UTF-8"; 
+
+div,p,body,header,footer,section,article,nav 
+{ 
+	margin: 0; 
+	padding: 0; 
+	border-margin: 1px;
+	border-color: #000;
+}	
+
+
+body 
+{
+	font-family: Arial, sans-serif;
+	margin: 0 auto;
+}
+
+p {
+	font-size: 14pt;
+	padding: 10px 20px 20px 20px;
+}
+
+h2,h1,header {
+	font-size: 28pt;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.center {
+	margin: 0 auto;
+}
+
+
 .hidden{
 	display: none;
 }

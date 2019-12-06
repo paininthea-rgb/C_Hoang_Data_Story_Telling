@@ -1,6 +1,6 @@
 # Olympic Winter in a nutshell
 
-![Picture here](chart.jpg)
+![Picture here](Olympic.jpg)
  
 ## Sypnosis 
 
@@ -18,4 +18,4 @@ HTML
 
 ## Licensed
 
-C_Hoang 2019
+Cao Ly Hoang 2019
