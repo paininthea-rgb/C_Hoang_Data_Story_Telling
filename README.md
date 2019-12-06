@@ -2,7 +2,7 @@
 
 ![Picture here](USvsCA.jpg)
  
-## Synosis 
+## Sypnosis 
 
 In this webpage we will know which sport Canada did best and some interesting facts about it.
 
